@@ -40,13 +40,10 @@ The dataset was used to:
 
 ## 🛠 Tools Used
 
-- **Microsoft Excel** – Data cleaning, analysis, and dashboard creation  
-- **Pivot Tables** – Summarizing and analyzing large datasets  
-- **Pivot Charts** – Visual representation of CPI trends and category-wise inflation  
-- **Data Cleaning Techniques** – Handling missing values and formatting data  
-- **Conditional Formatting** – Highlighting important trends and patterns  
-- **Excel Formulas & Functions** – Performing calculations and KPI generation  
-- **Data Visualization** – Creating interactive charts and dashboards for insights
-- Identify major contributors to inflation
+- **Microsoft Excel** 
+- **Pivot Tables**   
+- **Pivot Charts**   
+- **Excel Formulas & Functions**   
+- **Data Visualization** 
 - Analyze volatility in consumer prices
 - Generate insights through charts and dashboards
